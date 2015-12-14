@@ -1,0 +1,1753 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"media",
+				"media_type"
+			],
+			[
+				"cue_",
+				"cue_out"
+			],
+			[
+				"cu",
+				"cue_out"
+			],
+			[
+				"settings",
+				"settings_path"
+			],
+			[
+				"backup",
+				"backup_system_files"
+			],
+			[
+				"group",
+				"group_name"
+			],
+			[
+				"configure",
+				"configure_script"
+			],
+			[
+				"confi",
+				"config_file"
+			],
+			[
+				"deploy",
+				"deploy_config"
+			],
+			[
+				"removeAt",
+				"removeAttribute"
+			],
+			[
+				"decryptP",
+				"decryptProcess"
+			],
+			[
+				"master",
+				"masterP"
+			],
+			[
+				"urlib",
+				"urllib2"
+			],
+			[
+				"urllib",
+				"urllib2"
+			],
+			[
+				"mediainfo",
+				"mediainfoPath"
+			],
+			[
+				"encode",
+				"encodeprogress"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "m3u8/__init__.py",
+			"settings":
+			{
+				"buffer_size": 2170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "m3u8/model.py",
+			"settings":
+			{
+				"buffer_size": 25771,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "m3u8/parser.py",
+			"settings":
+			{
+				"buffer_size": 9850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "m3u8/protocol.py",
+			"settings":
+			{
+				"buffer_size": 1027,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/crowe/Desktop/cuecont.m3u8",
+			"settings":
+			{
+				"buffer_size": 764,
+				"line_ending": "Unix",
+				"name": "#EXTM3U"
+			}
+		},
+		{
+			"file": "/Volumes/inlet/media_delivery/nathan/HLS_Testbeds/multiangle/multiangle_master.m3u8",
+			"settings":
+			{
+				"buffer_size": 9556,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"mlar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"dxml",
+				"Indent XML"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"app",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"mak",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"to",
+				"Show TODOs: Open files only"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"markown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mpar",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"marke",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markeo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"mako",
+				"Set Syntax: HTML (Mako)"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/crowe/Desktop/testcue.m3u8",
+		"/Volumes/inlet/media_delivery/nathan/HLS_Testbeds/sintel/unmuxed/sample_master.m3u8",
+		"/Users/crowe/Desktop/buffy.json",
+		"/Volumes/xc01/media_delivery/Sony/disney/D4/10019589/ADI.xml",
+		"/Users/crowe/repos/archive/Notes/SonyVODIngestPrioritze.md",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/crowe/Desktop/Pulsar Upgrade Testing/soap/JobStatusResponse.xml",
+		"/Users/crowe/Desktop/PulsarSoap.xml",
+		"/Users/crowe/Desktop/PulsarSoapStatus.xml",
+		"/Users/crowe/Desktop/alt_audio_clip_pulsar_2015-09-15_T_10-22-30_004_Pulsar_Report/PulsarReport.xml",
+		"/Users/crowe/scratch/elemental_id3.xml",
+		"/Users/crowe/repos/archive/Snippets/bash.md",
+		"/Users/crowe/repos/archive/noteslist.py",
+		"/Users/crowe/repos/archive/Notes/SonyVOD_AssetUpdates.md",
+		"/Users/crowe/repos/archive/Documentation/SonyVOD_AssetUpdates.md",
+		"/Users/crowe/repos/archive/Notes/MD_FileSystemAccessHost.md",
+		"/Users/crowe/repos/archive/Sony/SonyAsperaAccountSubs_boilerplate.md",
+		"/Users/crowe/repos/archive/Notes/Onboarding_Checklist_WIP.md",
+		"/Users/crowe/repos/archive/Documentation/FFMpegHLS.md",
+		"/Users/crowe/repos/archive/Documentation/PulsarDoc.md",
+		"/Users/crowe/repos/archive/Notes/SonyWorkflowSteps.md",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/crowe/repos/archive/Notes/Elemenal_JMDisable.md",
+		"/Users/crowe/Desktop/hboqc_manifest_modify.rb",
+		"/Users/crowe/MLBDocs/Elemental/UIColorChange/HBO/css/2.7/conductor_general-fe5fb6d0db926e7ff3d4cd273e76c5c4-hbo.css",
+		"/Users/crowe/MLBDocs/Elemental/UIColorChange/Sony/css/2.7/conductor_general-fe5fb6d0db926e7ff3d4cd273e76c5c4-sony.css",
+		"/Users/crowe/Desktop/scc_job.xml",
+		"/Users/crowe/Desktop/SonyTestXMLs/ESAM_CDATA.xml",
+		"/Users/crowe/Desktop/SonyTestXMLs/ESAM_Escaped2.xml",
+		"/Users/crowe/Desktop/SonyTestXMLs/ESAM_Escaped.xml",
+		"/Users/crowe/repos/archive/Sony/Elemental_Job_XMLs.md",
+		"/Users/crowe/Desktop/SonyTestXMLs/esam_job.xml",
+		"/Users/crowe/Desktop/SonyTestXMLs/ESAM_Escaped copy.xml",
+		"/Users/crowe/repos/archive/Notes/PulsarDoc.md",
+		"/Users/crowe/repos/archive/Notes/JobManagerAPI.md",
+		"/Users/crowe/repos/Virtualenvs/hlscut/lib/python2.7/site-packages/m3u8/parser.py",
+		"/Users/crowe/Desktop/13429/MACH2015090110003402.mov",
+		"/Users/crowe/Desktop/Recreated_According_To_Schema.xml",
+		"/Users/crowe/Desktop/501.xml",
+		"/Users/crowe/.ssh/config",
+		"/var/folders/x2/scjg6_s13c16ywx8kk00rt91mb5k5w/T/sublime-sftp-browse-1440518742/TestMedia/2015/hls_testbeds/404Chunks/master_wired.m3u8.bak",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/BDTC",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/TestMedia",
+		"/Users/crowe/Desktop/Mediainfo_FrameCount.txt",
+		"/Users/crowe/Desktop/job_44.xml",
+		"/Users/crowe/Desktop/Filler_Input_Example.xml",
+		"/Users/crowe/repos/status_browser/test.json",
+		"/Users/crowe/repos/status_browser/test.xml",
+		"/Users/crowe/Desktop/job_profile_402.xml",
+		"/Users/crowe/Desktop/job_profile_403.xml",
+		"/Users/crowe/Desktop/189141683.xml",
+		"/Users/crowe/Desktop/TestBeds/TestBed_Key_Values.txt",
+		"/Users/crowe/Desktop/checksum.sh",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/05_15_2015_Samples/150427_2861969_Unaware_in_Delaware_3/ADI.xml",
+		"/Users/crowe/.bash_functions",
+		"/Users/crowe/repos/elemental/elemental.py",
+		"/Users/crowe/Desktop/deploy.py",
+		"/Users/crowe/Downloads/gistf5393bf4f15182ef1d51-ec34f213d491e73d9ced1725d5de5fd1b1726cff/checksum.sh",
+		"/Users/crowe/.bash_alias",
+		"/Users/crowe/Desktop/post-receive",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/crowe/Desktop/Alterate_Audio_StreamAssembly_Elemental2.7.1.xml",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/crowe/repos/elemental/ElementalInstall.py",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/crowe/Desktop/alt_Job.xml",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/05_15_2015_Samples/150407_2857442_Sub_Primal_Fears_0/ADI.xml",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/05_15_2015_Samples/150407_2857442_Sub_Primal_Fears_1/ADI.xml",
+		"/Users/crowe/Desktop/120test.xml",
+		"/Users/crowe/Desktop/SonyAsperaList.sh",
+		"/Users/crowe/Desktop/SourceOutputName.json",
+		"/Users/crowe/Desktop/CustomOutputName.json",
+		"/Volumes/xc01-1/media_delivery/Sony/playboy/Test_PLAYBOY_MORNING_SHOW/0621220_THE_PLAYBOY_MORNING_SHOW_768_X_TM_5_19_16.xml",
+		"/Users/crowe/repos/scripts/ElementalStatusPage/index.html",
+		"/Users/crowe/Desktop/he102_settings.xml",
+		"/Users/crowe/Dropbox/MLB/id3reader_update.py",
+		"/Users/crowe/scratch/cuepoint_extract.sh",
+		"/Users/crowe/Desktop/udate_test.xml",
+		"/Users/crowe/MLBDocs/Elemental/UIColorChange/Sony/css/2.6/conductor_general-4f7c5458612f5ba188b3de56019b7e56-Sony.css",
+		"/Users/crowe/MLBDocs/Elemental/UIColorChange/Sony/css/2.7/conductor_general-fe5fb6d0db926e7ff3d4cd273e76c5c4-Red.css",
+		"/Users/crowe/MLBDocs/Elemental/UIColorChange/QAGraphics/QAColors.txt",
+		"/Users/crowe/Desktop/test.sh",
+		"/Users/crowe/elemental_profile.py",
+		"/Users/crowe/Desktop/job_profile_484.xml",
+		"/Users/crowe/Desktop/setup.py",
+		"/Users/crowe/Desktop/avplayer.py",
+		"/Users/crowe/Desktop/Template_List.xml",
+		"/Users/crowe/Downloads/Job.xsd",
+		"/Users/crowe/Desktop/Job.xsd",
+		"/Users/crowe/Desktop/Job.xsd?version=1",
+		"/Users/crowe/Downloads/JobProfile.xsd",
+		"/Users/crowe/.shuttle.json",
+		"/Users/crowe/repos/scripts/ElementalStatusPage/elemental_status.py",
+		"/Users/crowe/repos/scripts/ElementalStatusPage/test.html",
+		"/Users/crowe/repos/scripts/ElementalStatusPage/jmod/jMod.full.js",
+		"/Users/crowe/repos/scripts/ElementalStatusPage/jmod/jMod.js",
+		"/Users/crowe/Desktop/bootstrap-3.3.4-dist/css/bootstrap-theme.css",
+		"/Users/crowe/.bash_M5Alias",
+		"/Volumes/xc01/media_delivery/Sony/Fox/05_05_Samples/Animals_Wild_101_HD_VOD4_AUTH/Animals_Wild_101_HD_VOD4_AUTH.xml",
+		"/Volumes/xc01/media_delivery/Sony/Fox/Total_Recall_HD_Clean_AUTH/Total_Recall_HD_Clean_AUTH.xml",
+		"/Volumes/xc01/media_delivery/Sony/Fox/Wifes_Bst_Friend_HD_Clean_AUTH/Wifes_Bst_Friend_HD_Clean_AUTH.xml",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/150415_4001815__ThisTruck_2/ADI.xml",
+		"/Volumes/xc01-1/media_delivery/Sony/NBCU/150415_4001814_Going_All_City_1/ADI.xml",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/150410_4001800_One_Step_Forward__Two_Steps_Back_4/ADI.xml",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/DAI/150410_4001800_One_Step_Forward__Two_Steps_Back_2/ADI.xml",
+		"/Volumes/xc01/media_delivery/Sony/NBCU/141110_4000401_Fina_Estampa_Capitulo_45_1/ADI.XML",
+		"/Volumes/xc01-1/media_delivery/Sony/NBCU/DAI/150410_4001800_One_Step_Forward__Two_Steps_Back_2/ADI.xml",
+		"/Users/crowe/Desktop/PowersEpisode7.xml",
+		"/Users/crowe/.bash_M3Alias",
+		"/Users/crowe/.bash_profile",
+		"/Users/crowe/repos/archive/Sony/Networks/NFL.md",
+		"/Users/crowe/repos/archive/Sony/Networks/NBC.md",
+		"/Users/crowe/repos/archive/Sony/Networks/Fox.md",
+		"/Users/crowe/repos/archive/Sony/SlugSamples.md",
+		"/Users/crowe/Desktop/iframe-playlist-generator-master/setup.py",
+		"/Users/crowe/Desktop/id3reader.py",
+		"/Users/crowe/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/crowe/Desktop/failed_caption_videos.json",
+		"/Users/crowe/Desktop/MediaInfo/Source/Common/Core.cpp",
+		"/Users/crowe/Desktop/PowersEpisode3.xml",
+		"/Users/crowe/Desktop/PowersEpisode4.xml",
+		"/Users/crowe/Desktop/PowersEpisode2.xml",
+		"/Volumes/xc01-1/media_delivery/Sony/Scripps/ByeOntarioHD-20150316-133051/ADI.XML",
+		"/Users/crowe/repos/archive/Sony/EN-TV VOD Delivery Specifications.md",
+		"/Volumes/xc01-1/media_delivery/Sony/CBS/CURRENTLY_AIRING/AMAZING_RACE/CBS_AMAZING_RACE_2501_HD_SONY_MLBAM.package/CBS_AMAZING_RACE_2501_HD_SONY_MLBAM.xml"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"media",
+			"group",
+			"session",
+			"cue_out",
+			"last",
+			"out",
+			"cue_out",
+			"urrent_key",
+			"cue_out",
+			"key",
+			"cue_",
+			"dis",
+			"- ",
+			"/*CUSTOM*/",
+			"/*",
+			"//",
+			"acquisitionSignalID",
+			" duratio",
+			" upid=\"5349474E414C3A365769717631634351756D4A637461674F4B532B75673D3D\" upidType=\"9\"",
+			"acquisitionSignalID",
+			"duration",
+			" upidType=\"9\" upid=\"5349474E414C3A365769717631634351756D4A637461674F4B532B75673D3D\"",
+			"Rule",
+			"descriptors",
+			"plist hbo_",
+			": Null Pointer",
+			"deploy_config",
+			"	except subprocess.CalledProcessError, e:\n		log.write(e)\n		sys.exit(e)\n",
+			"except subprocess.CalledProcessError as e:\n        err_message = 'Command Failed with Error Code: ' + str(e.returncode) + ', for command: ' + str(e.cmd)\n        log.write(err_message)\n        sys.exit(err_message)\n",
+			"		except subprocess.CalledProcessError, e:\n			log.write(e)\n			sys.exit(e)\n",
+			"        log.write(err_message)\n",
+			"except subprocess.CalledProcessError, e:\n	sys.exit(e)\n",
+			"ET",
+			"toString",
+			"USER",
+			"{",
+			"/Users/mediadelivery/.git-repos/site.git",
+			"mmqastorefs",
+			"file_input",
+			"apple_live_group_settings",
+			"source",
+			"Ep",
+			"\n",
+			"5981",
+			"TMS: ",
+			"Episode",
+			"Episode ",
+			"/*CUSTOM*/",
+			"FF2E00",
+			"FC5F52",
+			"FEC9C0",
+			"/*CUSTOM*/",
+			"FC2C23",
+			"/*CUSTOM*/",
+			"FA9081",
+			"/*CUSTOM*/",
+			"86120D",
+			">",
+			"med3",
+			"name",
+			"se",
+			"01",
+			"se",
+			"sc",
+			"se",
+			"02",
+			"01",
+			"se1",
+			".64.",
+			"01\n HostName",
+			".60.",
+			"10.60.33",
+			"Host se",
+			"se",
+			"sc",
+			"01\n HostName",
+			"addcross",
+			"GM_xml",
+			"GM_",
+			"file://",
+			"badge",
+			"se",
+			"221",
+			"222",
+			"2222",
+			"222",
+			"221",
+			"220",
+			"sc",
+			".60",
+			"Sony",
+			"med3",
+			"niel",
+			"174103",
+			"caption",
+			"gt",
+			"2355.0353",
+			"1846.0378",
+			"2355.353",
+			"1846.378",
+			"1386.352",
+			"1104.337",
+			"565.298",
+			"5",
+			"4",
+			"2129.227",
+			"1815.180",
+			"1328.227",
+			"928.194",
+			"496.229",
+			"1192.191",
+			"664.664",
+			"117.117",
+			"3",
+			"2",
+			"template",
+			"gettemplatelist",
+			"gettemplate",
+			"SegTest",
+			"sc",
+			"27",
+			"7",
+			"5",
+			"4",
+			"      <base_url nil=\"true\"/>\n",
+			"#nav .top",
+			"/*NAV",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "m3u8/__init__.py",
+					"settings":
+					{
+						"buffer_size": 2170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2170,
+								2170
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E101",
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "m3u8/model.py",
+					"settings":
+					{
+						"buffer_size": 25771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20096,
+								20096
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E101",
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9390.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "m3u8/parser.py",
+					"settings":
+					{
+						"buffer_size": 9850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2063,
+								2063
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E101",
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2689.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "m3u8/protocol.py",
+					"settings":
+					{
+						"buffer_size": 1027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1007,
+								1025
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E101",
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/crowe/Desktop/cuecont.m3u8",
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "#EXTM3U",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E101",
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Volumes/inlet/media_delivery/nathan/HLS_Testbeds/multiangle/multiangle_master.m3u8",
+					"settings":
+					{
+						"buffer_size": 9556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4114,
+								4129
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E101",
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 716.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"t",
+				"/Users/crowe/MLBDocs/Projects/Sony/NetworkIngest/Ingest_XML/techdata_delivery.complete"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
