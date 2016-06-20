@@ -382,7 +382,7 @@ class Segment(BasePathMixin):
         if self.cue_in:
             output.append('#EXT-X-CUE-IN\n')
 
-        if (last_segment and self.key != last_segment.key) or cue_key:
+        if (self.key and last_segment and last_segment.key and self.key != last_segment.key) or cue_key:
             output.append(str(self.key))
             output.append('\n')
 
