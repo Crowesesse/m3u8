@@ -8,6 +8,14 @@ import os
 import errno
 import math
 
+try:
+    from urllib.request import urlopen, Request
+    from urllib.error import HTTPError
+    from urllib.parse import urlparse, urljoin
+except ImportError:  # Python 2.x
+    from urllib2 import urlopen, Request, HTTPError
+    from urlparse import urlparse, urljoin
+
 from m3u8.protocol import ext_x_start
 from m3u8.parser import parse, format_date_time
 from m3u8.mixins import BasePathMixin, GroupedBasePathMixin
@@ -135,7 +143,7 @@ class M3U8(object):
         ('playlist_type',    'playlist_type')
     )
 
-    def __init__(self, content=None, base_path=None, base_uri=None, strict=False):
+    def __init__(self, content=None, base_path=None, base_uri=None, auth_header=None, noauth_base_uri=None, strict=False):
         if content is not None:
             self.data = parse(content, strict)
         else:
@@ -145,9 +153,36 @@ class M3U8(object):
             if not self._base_uri.endswith('/'):
                 self._base_uri += '/'
 
+        if data.get('keys') and noauth_base_uri:
+            updatedKeys = __get_key_values(keys=data.get('keys', []), base_uri=noauth_base_uri, auth_header=auth_header)
+            data['keys'] = updatedKeys
         self._initialize_attributes()
         self.base_path = base_path
 
+    def __get_key_values(self, keys, base_uri, auth_header=None):
+        updatedKeys = []
+        self.hasKeyValues = True
+        for k in keys:
+            try:
+                headers = {} if not auth_header else headers = auth_header
+                request = Request(k['uri'], headers=headers)
+                resource = urlopen(request, timeout=5)
+            except:
+                #Add better exception handling here for inablitity to retrieve keys
+                self.hasKeyValues = False
+                updatedKeys = keys
+                break
+            else:
+                if PYTHON_MAJOR_VERSION < (3,):
+                    value = _read_python2x(resource)
+                else:
+                    value = _read_python3x(resource)
+                noauth_uri = '{0}{1}'.format(noauth_base_uri, value)
+                key = k
+                key['uri'] = noauth_uri
+                key['value'] = value
+                updatedKeys.append(key)
+        return updatedKeys
 
     def _initialize_attributes(self):
         self.keys = [ Key(base_uri=self.base_uri, **params) if params else None
@@ -420,13 +455,15 @@ class Key(BasePathMixin):
 
     '''
 
-    def __init__(self, method, base_uri, uri=None, iv=None, keyformat=None, keyformatversions=None):
+    def __init__(self, method, base_uri, default_uri=None, uri=None, iv=None, keyformat=None, keyformatversions=None, value=None, auth_header=None):
         self.method = method
         self.uri = uri
+        self.default_uri = default_uri if default_uri else self.default_uri = uri
         self.iv = iv
         self.keyformat = keyformat
         self.keyformatversions = keyformatversions
         self.base_uri = base_uri
+        self.value = value
 
     def __str__(self):
         output = [
@@ -451,7 +488,8 @@ class Key(BasePathMixin):
             self.iv == other.iv and \
             self.base_uri == other.base_uri and \
             self.keyformat == other.keyformat and \
-            self.keyformatversions == other.keyformatversions
+            self.keyformatversions == other.keyformatversions and \
+            self.value == other.value
 
     def __ne__(self, other):
         return not self.__eq__(other)
@@ -721,3 +759,14 @@ def quoted(string):
 
 def int_or_float_to_string(number):
     return str(int(number)) if number == math.floor(number) else str(number)
+
+def _read_python2x(resource):
+    return resource.read().strip()
+
+
+def _read_python3x(resource):
+    return resource.read().decode(
+        resource.headers.get_content_charset(failobj="utf-8")
+    )
+
+

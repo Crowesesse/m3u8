@@ -177,6 +177,8 @@ def _parse_key(line):
     for param in params:
         name, value = param.split('=', 1)
         key[normalize_attribute(name)] = remove_quotes(value)
+    if key.get('uri'):
+    	key['default_uri'] = key['uri']
     return key
 
 
